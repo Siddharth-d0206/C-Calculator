@@ -12,7 +12,7 @@ int main()
 
     cout << "Calculator Console Application" << endl << endl;
     cout << "By:Siddharth Damodharan and Greysen Bahl" << endl;
-    cout << "Suck it Green" << endl;
+    cout << "If you want to see more projects like this then please follow our git hub @Daylightgamingstudios." << endl;
     cout << "Please enter the operation to perform. Format: a+b | a-b | a*b | a/b"
         << endl;
 

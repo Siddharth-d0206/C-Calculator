@@ -11,8 +11,8 @@ int main()
     char oper = '+';
 
     cout << "Calculator Console Application" << endl << endl;
-    cout << "By:Siddharth Damodharan and Greysen Bahl" << endl;
-    cout << "If you want to see more projects like this then please follow our git hub @Daylightgamingstudios." << endl;
+    cout << "By:Siddharth Damodharan" << endl;
+    cout << "If you want to see more projects like this then please follow my git hub @Daylightgamingstudios." << endl;
     cout << "Please enter the operation to perform. Format: a+b | a-b | a*b | a/b"
         << endl;
 
